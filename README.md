@@ -2,9 +2,9 @@
   <h1 align="center">
     hola！This is R.G. 🎉
   </h1>
-  <div style="font-weight: bold;" align="center">
+  <h3 align="center">
     Welcome, my friend!
-  </div>
+  </h3>
   <br/>
   <p align="center">
     I've been working on the <strong>Blood Hero Project</strong> recently, and here's its UI prototype (drawn using Figma):
