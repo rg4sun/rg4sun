@@ -6,7 +6,7 @@
     Welcome, my friend!
   </h3>
   <p align="center">
-    I've been working on the <strong>Blood Hero Project</strong> recently, and here's its UI prototype (drawn using Figma):
+    I've been working on the <strong>Blood Hero Project</strong> recently, and here's its UI prototypes (drawn using Figma):
   </p>
   <p align="center">
     <a href="https://github.com/rg4sun/Hybrid-App" align="center">
